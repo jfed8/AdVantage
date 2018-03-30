@@ -27,7 +27,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     'advantage-xlr8.herokuapp.com',
-    'advantage.xlr8.com',
+    'advantage.xlr8dev.com',
 ]
 
 
