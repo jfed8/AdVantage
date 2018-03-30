@@ -25,7 +25,10 @@ SECRET_KEY = '(5n^u0li*#v7p9f19q-pk_zwwgh#2p4w1nj&bv6vz^hemt)&4-'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'advantage-xlr8.herokuapp.com',
+    'advantage.xlr8.com',
+]
 
 
 # Application definition
