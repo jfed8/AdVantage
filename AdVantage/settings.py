@@ -41,6 +41,7 @@ STATICFILES_DIRS = (
     # '/var/www/static/',
 )
 
+#added whitenoise
 STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
 
 # Application definition
